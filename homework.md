@@ -1,7 +1,7 @@
 # Individual Designs
 ### Design 1 (Sijun Shen)
 
-
+![s1](https://github.gatech.edu/storage/user/27527/files/75885080-3160-11e9-91cd-3b8c1ab61577)
 
 ![Alt text](1550282707113.png)
 
